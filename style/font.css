@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'SB';
+    src: url(../fonts/SegoeUI-Bold.ttf);
+}
+@font-face {
+    font-family: 'SSB';
+    src: url(../fonts/SegoeUI-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'SL';
+    src: url(../fonts/SegoeUI-Light.ttf);
+}
+@font-face {
+    font-family: 'SR';
+    src: url(../fonts/SegoeUI.ttf);
+}
