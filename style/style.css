@@ -340,7 +340,7 @@ a {
     max-width: 768px;
     width: 100%;
     margin: 0 auto;
-
+    text-align: center;
 }
 
 .camera__main-title::after,
@@ -361,7 +361,7 @@ a {
     height: 5px;
     background: #DA3939;
     align-self: flex-end;
-
+    margin: 0 auto;
 }
 
 .camera__main-text,
@@ -515,7 +515,7 @@ a {
 }
 .install__title::after {
     align-self: flex-start;
-    max-width: 651px;
+    max-width: 978px;
     width: 100%;
 }
 .install__main-text {
@@ -615,7 +615,7 @@ a {
     width: 100%;
 }
 .advan__title::after {
-    max-width: 262px;
+    max-width: 378px;
     width: 100%;
 }
 
@@ -691,7 +691,7 @@ a {
     max-width: 1039px;
 }
 .control__main-title::after {
-    max-width: 673px;
+    max-width: 1140px;
     width: 100%;
 }
 .control__box {
@@ -788,7 +788,7 @@ a {
     width: 100%;
 }
 .brand__title::after {
-    max-width: 436px;
+    max-width: 860px;
     width: 100%;
 }
 
@@ -1135,7 +1135,7 @@ a {
     width: 100%;
 }
 .inf__main-title::after {
-    max-width: 228px;
+    max-width: 546px;
     width: 100%;
 }
 .inf__box {
@@ -2034,7 +2034,7 @@ a {
 
     }
     .camera__main-title::after {
-        max-width: 350px;
+        max-width: 770px;
         margin: 0 auto;
     }
     .list__dec-left {
@@ -2075,7 +2075,7 @@ a {
         text-align: center;
     }
     .video__title::after {
-        max-width: 350px;
+        max-width: 750px;
         margin: 0 auto;
     }
     .cons__dec-micro {
